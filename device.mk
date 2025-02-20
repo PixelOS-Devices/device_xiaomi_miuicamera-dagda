@@ -5,7 +5,7 @@
 #
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/miuicamera-zeus/miuicamera-zeus-vendor.mk)
+$(call inherit-product, vendor/xiaomi/miuicamera-zeus/miuicamera-cupid-vendor.mk)
 
 # Public libraries
 PRODUCT_COPY_FILES += \
